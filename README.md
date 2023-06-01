@@ -8,7 +8,7 @@ Build an electronic device, to which a solar module and/or a small wind turbine 
 
 The output would be an usb-c with which you can power your computer when working during the day, charging your devices or any other usb-c device. Maybe there's also a power connector for your wifi router.
 
-The electronic device would prioritize the reneweable energy, but if this wouldn't be enough, the backup from the power grid kicks in. Ideally the standby power used from the grid is as low as possible.
+The electronic device would prioritize the reneweable energy, but if this wouldn't be enough, the backup from the power grid gradually kicks in. Ideally the standby power used from the grid is as low as possible.
 
 A display shows the current status, how much power is consumed from which source.
 
