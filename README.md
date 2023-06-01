@@ -11,3 +11,5 @@ The output would be an usb-c with which you can power your computer when working
 The electronic device would prioritize the reneweable energy, but if this wouldn't be enough, the backup from the power grid kicks in. Ideally the standby power used from the grid is as low as possible.
 
 A display shows the current status, how much power is consumed from which source.
+
+<img src="/images/Controller.png" width="600" />
